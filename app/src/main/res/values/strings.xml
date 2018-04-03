@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoE Meeting Room Reservation</string>
+    <string name="nameapp">CoE Working Space Reservation</string>
+    <string name="login">LOGIN</string>
+</resources>
